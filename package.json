@@ -1,0 +1,31 @@
+{
+  "name": "dharmitviradia.me",
+  "version": "1.0.0",
+  "description": "Graduate Student at Stevens Institute of Technology",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmitviradia/dharmitviradia.git"
+  },
+  "homepage": "http://dharmitviradia.me",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve --watch",
+    "build": "gulp build"
+  },
+  "author": "Dharmit Viradia",
+  "license": "MIT",
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "6.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "3.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/dharmitviradia/dharmitviradia/issues"
+  }
+}

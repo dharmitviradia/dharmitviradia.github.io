@@ -1,0 +1,22 @@
+languages:
+  - item: JavaScript
+  - item: HTML
+  - item: CSS
+  - item: Python
+  - item: SQL
+
+frameworks:
+  - item: Metasploit
+  - item: React
+  - item: Jekyll
+  - item: NodeJS
+
+
+tools:
+  - item: AWS
+  - item: Bash
+  - item: Git & Github
+  - item: Postman
+  - item: MongoDB
+  - item: PostgreSQL
+  - item: Wireshark

@@ -1,0 +1,18 @@
+- college: Stevens Institute of Technology
+  url: https://www.stevens.edu/ 
+  time: Aug 2019 - Present
+  major: Masters of Computer Science
+  subjects: 
+    - course: Web Programming
+    - course: Agile Methods for Software Development 
+    - course: Database Management System
+    - course: Data Structure
+    - course: Intro to Cloud Computing(AWS)
+    - course: Advance in Python Programming
+
+- college: University of Mumbai
+  url: https://mu.ac.in/ 
+  time: Aug 2014 - May 2018
+  major: Bachelors in Computer Engineering
+  subjects: 
+    - course: 

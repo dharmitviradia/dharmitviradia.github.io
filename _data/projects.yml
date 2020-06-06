@@ -1,0 +1,25 @@
+- name: Node.js application on Elastic Beanstalk on AWS
+  url: #
+  description: Deployed a Node.js application that uses the AWS SDK for JavaScript in Node.js to interact with Amazon DynamoDB
+  used:
+    - thing: Node.js
+    - thing: S3 Bucket
+    - thing: DynamoDB
+    - thing: AWS CloudFormation stack
+    - thing: Amazon SNS
+
+- name: Expense Tracking Website
+  url: #
+  description: 
+  used:
+    - thing:
+
+- name: Automatic Visualization of Descriptive Text
+  url: #
+  description: We analyze the case of putting forth a interface for generating 3D scenes from input texts. The component of natural language understanding is framed as a problem of semantic parsing, in which a structured representation of input texts is created and then linking it together for a meaningful representation of scenes in space. We incorporate a dataset of 3D objects that are recorded with natural language texts and learn how to generate 3d scenes from descriptive texts. This system renders 3D scenes for a correct user input by analyzing text parameters and also allows user to interact with the generated scene.
+  used:
+    - thing: Natural Language Processing
+    - thing: Stanford Parser
+    - thing: Blender
+    - thing: JFrame
+    - thing: 3D Objects

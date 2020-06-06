@@ -1,47 +1,16 @@
-<!DOCTYPE HTML>
+---
+layout: default
+---
 
-<html>
-	<head>
-		<title>Dharmit Viradia</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-		<div id="wrapper">
-			<div id="bg"></div>
-			<div id="overlay"></div>
-			<div id="main">
-
-				<!-- Header -->
-					<header id="header">
-					<p>My Portfolio</p>
-						<h1>Dharmit Viradia</h1>
-						<p>My Personal Website</p>
-						<nav>
-							<ul>
-								<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="http://instagaram.com/dharmit.viradia" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="https://www.linkedin.com/in/dharmit-viradia/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>								
-								<li><a href="https://github.com/dharmitviradia" class="icon brands fa-github"><span class="label">Github</span></a></li>
-								<li><a href="mailto:dviradia@stevens.edu" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-							</ul>
-						</nav>
-					</header>
-
-				<!-- Footer -->
-					<footer id="footer">
-						<span class="copyright">&copy; Aerial Design: <a href="http://html5up.net"></a>HTML5</span>
-					</footer>
-
-			</div>
-		</div>
-		<script>
-			window.onload = function() { document.body.classList.remove('is-preload'); }
-			window.ontouchmove = function() { return false; }
-			window.onorientationchange = function() { document.body.scrollTop = 0; }
-		</script>
-	</body>
-</html>
+<div id="site">
+  {% include switch.html %}
+  {% include intro.html %}
+  {% include background.html %}
+  {% include skills.html %}
+  {% include education.html %}
+  {% include projects.html %}
+  {% include publication.html %}
+  {% include experience.html %}
+  {% include footer.html %}
+  {% include top-button.html %}
+</div>

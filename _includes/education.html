@@ -1,0 +1,24 @@
+<section class="section education">
+  <div class="section__title">Education</div>
+  <div class="section__content">
+    <div class="edus">
+      {% for edu in site.data.education %}
+      <div class="edu">
+        <div class="time-place">
+          <div class="edu__college">
+            <a href="{{edu.url}}" target="_blank">{{edu.college}}</a>
+          </div>
+          <div class="edu__time">{{edu.time}}</div>
+        </div>
+        <div class="edu__major">{{edu.major}}</div>
+        <div class="edu__subject">
+          {% for item in edu.subjects %}
+          <span class="edu__subject__item">{{item.course}}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a>
+  </div>
+</section>
