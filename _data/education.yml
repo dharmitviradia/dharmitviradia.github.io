@@ -9,10 +9,21 @@
     - course: Data Structure
     - course: Intro to Cloud Computing(AWS)
     - course: Advance in Python Programming
+    - course: Fundamentals of Cyber Security
+    - course: Web Programming II
+    - course: Human Computer Interaction
 
 - college: University of Mumbai
   url: https://mu.ac.in/ 
   time: Aug 2014 - May 2018
   major: Bachelors in Computer Engineering
   subjects: 
-    - course: 
+    - course: Object Oriented Programming
+    - course: Analysis of Algorithms
+    - course: Computer Graphics
+    - course: Operating Systems
+    - course: System Programming and Complier Construction
+    - course: Distribute Database
+    - course: Mobile Communication and Computing
+    - course: Digital Signal Processing
+    - course: Parallel and Distributed Systems
