@@ -1,22 +1,38 @@
-- name: Node.js application on Elastic Beanstalk on AWS
+- name: Stock Market Application
   url: #
-  description: Deployed a Node.js application that uses the AWS SDK for JavaScript in Node.js to interact with Amazon DynamoDB
+  description: Developed a web application that allowed the user to buy and sell stocks, build stocks wish list, view investment portfolio, view graphical and statistical data
+  used:
+    - thing: React
+    - thing: Node.js
+    - thing: Firebase
+    - thing: MongoDB Atlas
+    - thing: Redis
+    - thing: Heroku
+
+
+- name: Event Registration Application on AWS
+  url: #
+  description: Created a web form using node.js and environment utilizing AWS Elastic Beanstalk and Amazon DynamoDB
   used:
     - thing: Node.js
     - thing: S3 Bucket
     - thing: DynamoDB
+    - thing: Elastic Beanstalk
     - thing: AWS CloudFormation stack
     - thing: Amazon SNS
 
 - name: Expense Tracking Website
   url: #
-  description: 
+  description: Developed a full-stack web application using Node.js serving a MongoDB with Handlebars as the front end
   used:
-    - thing:
+    - thing: Node.js
+    - thing: MongoDB
+    - thing: Express
+    - thing: Handlebars
 
 - name: Automatic Visualization of Descriptive Text
   url: #
-  description: We analyze the case of putting forth a interface for generating 3D scenes from input texts. The component of natural language understanding is framed as a problem of semantic parsing, in which a structured representation of input texts is created and then linking it together for a meaningful representation of scenes in space. We incorporate a dataset of 3D objects that are recorded with natural language texts and learn how to generate 3d scenes from descriptive texts. This system renders 3D scenes for a correct user input by analyzing text parameters and also allows user to interact with the generated scene.
+  description: Created an application that converts a user input text to a 3D Scene rendered using Blender, Java, Python, Wordnet, and Stanford CoreNLP
   used:
     - thing: Natural Language Processing
     - thing: Stanford Parser
