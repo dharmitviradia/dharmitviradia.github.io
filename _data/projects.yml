@@ -1,6 +1,7 @@
 - name: Stock Market Application
   url: #
   description: Developed a web application that allowed the user to buy and sell stocks, build stocks wish list, view investment portfolio, view graphical and statistical data
+  descirption: Test 2
   used:
     - thing: React
     - thing: Node.js
