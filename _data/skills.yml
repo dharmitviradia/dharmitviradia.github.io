@@ -1,15 +1,20 @@
 languages:
   - item: JavaScript
-  - item: HTML
-  - item: CSS
   - item: Python
   - item: SQL
+  - item: Java
 
 frameworks:
   - item: Metasploit
   - item: React
   - item: Jekyll
-  - item: NodeJS
+  - item: Node.js
+  - item: Ruby on Rails
+  - item: HTML5
+  - item: CSS3
+  - item: Redis
+  - item: Bootstrap
+  - item: Gulp
 
 
 tools:
