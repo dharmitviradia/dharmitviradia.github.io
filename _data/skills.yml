@@ -4,6 +4,16 @@ languages:
   - item: SQL
   - item: Java
 
+tools:
+  - item: AWS
+  - item: Bash
+  - item: Git & Github
+  - item: Postman
+  - item: MongoDB
+  - item: PostgreSQL
+  - item: Wireshark
+
+
 frameworks:
   - item: Metasploit
   - item: React
@@ -15,13 +25,3 @@ frameworks:
   - item: Redis
   - item: Bootstrap
   - item: Gulp
-
-
-tools:
-  - item: AWS
-  - item: Bash
-  - item: Git & Github
-  - item: Postman
-  - item: MongoDB
-  - item: PostgreSQL
-  - item: Wireshark
