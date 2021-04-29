@@ -503,7 +503,7 @@ strong {
 
 .tm-img-profile {
     width: 80%;
-    height: 80%;
+    height: 100%;
     display: inline-block;
     vertical-align: middle;
 }
