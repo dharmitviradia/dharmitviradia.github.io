@@ -2,12 +2,12 @@
 name: Dharmit Viradia
 title: Dharmit Viradia | Graduate Student at Stevens Institute of Technology
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://dharmitviradia.me/
+url: https://dharmitviradia.github.io/
 baseurl: ''
 email: dviradia@stevens.edu
-cover: https://dharmitviradia.me/img/og.png
-logo: https://dharmitviradia.me/img/emojis/technologist.png
-resume: https://dharmitviradia.me/resume.pdf
+cover: https://dharmitviradia.github.io/img/og.png
+logo: https://dharmitviradia.github.io/img/emojis/technologist.png
+resume: https://dharmitviradia.github.io/resume.pdf
 social:
   - title: email
     url: mailto:dviradia@stevens.edu
