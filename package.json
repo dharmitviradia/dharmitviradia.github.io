@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/dharmitviradia/dharmitviradia.git"
   },
-  "homepage": "http://dharmitviradia.github.io",
+  "homepage": "http://dharmitviradia.github.io/portfolio/",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
